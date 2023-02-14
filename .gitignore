@@ -1,0 +1,9 @@
+*.test
+*.out
+
+go.work
+
+solutions-*.json
+
+bin
+wip
